@@ -1,0 +1,6 @@
+{
+  "name": "Nhắc Uống Nước - Water Reminder",
+  "description": "Ứng dụng nhắc uống nước hàng ngày phong cách Fresh Water, tự động tính toán nhu cầu nước, theo dõi tiến độ và nhắc nhở thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
